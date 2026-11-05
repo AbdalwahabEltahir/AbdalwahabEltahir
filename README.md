@@ -16,7 +16,6 @@ I care about shipping working products, testing them properly, and handling user
 |  |  |
 |---|---|
 | 🌱 **Now** | Junior full-stack developer pathway at **CertiMinds** |
-| 🎓 **Building** | Capstone: a security-first, AI-driven digital phenotyping IDS |
 | 💼 **Before** | IT Intern at **CloudMerg LLC**: built responsive UI for 8 core user flows of a cloud-based CV builder and wired them to backend endpoints |
 | 🔐 **Security** | Palo Alto Networks: Network Security Fundamentals & Cybersecurity Foundation |
 | 🗣️ **Languages** | Arabic · English |
