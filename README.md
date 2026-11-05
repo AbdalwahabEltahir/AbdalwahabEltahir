@@ -5,10 +5,6 @@
   📍 Doha, Qatar 🇶🇦 &nbsp;·&nbsp; 🎓 BS Information Systems, UDST (2026)
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Junior%20Full--Stack%20%26%20AI%20roles-2ea44f?style=for-the-badge" alt="Open to work">
-</p>
-
 ---
 
 ## 👨‍💻 About me
@@ -75,7 +71,3 @@ A microservices-based e-commerce app for computer accessories.
 
 ---
 
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
