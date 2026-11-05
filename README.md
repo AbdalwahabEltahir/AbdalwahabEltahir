@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdalwahab 👋</h1>
+<h1 align="center">Hi, I'm Abdalwahab </h1>
 
 <p align="center">
   <b>Junior Full-Stack & AI Developer</b><br>
@@ -34,7 +34,7 @@ I care about shipping working products, testing them properly, and handling user
 
 ## ⭐ Featured projects
 
-### 🧠 [AI Cybersecurity-Driven Digital Phenotyping IDS](https://github.com/AbdalwahabEltahir/Digital_Phenotyping_Capstone_)
+###  [AI Cybersecurity-Driven Digital Phenotyping IDS](https://github.com/AbdalwahabEltahir/Digital_Phenotyping_Capstone_)
 *Capstone, 2026*
 
 An intrusion and anomaly detection system that analyses passive smartphone and wearable behavioural data to flag digital-safety and wellbeing risk indicators, while protecting that sensitive data.
@@ -46,7 +46,7 @@ An intrusion and anomaly detection system that analyses passive smartphone and w
 
 <br>
 
-### 🏺 [Ceramica Nova: AI Sales Consultant](https://github.com/AbdalwahabEltahir/Ceramica-Nova-AI-Sales-Consultant-)
+###  [Ceramica Nova: AI Sales Consultant](https://github.com/AbdalwahabEltahir/Ceramica-Nova-AI-Sales-Consultant-)
 
 A Flask web app that guides customers with no renovation knowledge to the right tiles and shows how the products will look. The LLM understands and explains, while deterministic code makes the decisions and calculations.
 
@@ -59,7 +59,7 @@ A Flask web app that guides customers with no renovation knowledge to the right 
 
 <br>
 
-### 🛒 [NeonChip: E-Commerce Store](https://github.com/AbdalwahabEltahir/NeonChip-Store)
+###  [NeonChip: E-Commerce Store](https://github.com/AbdalwahabEltahir/NeonChip-Store)
 
 A microservices-based e-commerce app for computer accessories.
 
