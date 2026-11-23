@@ -68,5 +68,18 @@ A microservices-based e-commerce app for computer accessories.
 
 `Flutter` `Spring Boot` `MongoDB` `Flagsmith` `Mobioos Forge`
 
+<br>
+
+<br>
+
+###  [Hafez: school managment system](https://github.com/AbdalwahabEltahir/School-management-system)
+
+Hafez is a web application that helps school networks keep their cloud-workspace files in good order.
+
+- It connects to a school's workspace, checks files against configurable rules
+- Hafez reads documents from Google Drive through a read-only connector (workspace/google/).
+- Help school managemnt and staff deliver better education through the platform for students and allow parents to track student progress
+
+
 ---
 
