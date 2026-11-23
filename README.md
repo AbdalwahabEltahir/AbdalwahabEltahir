@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I build web and mobile apps end to end, from **Spring Boot** and **Firebase** backends to **React Native** and **Flutter** frontends. I add AI where it earns its place, such as ML models that spot anomalies in user behaviour or an LLM that guides customers to the right product.
 
